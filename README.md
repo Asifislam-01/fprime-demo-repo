@@ -1,6 +1,7 @@
 # HiNamespace F´ Project (hello-project)
 
 [F Prime (F´)](https://fprime.jpl.nasa.gov/) flight-software project with a **Hello World** component, a **port-to-port** demo between two components, and a full **FirstDeployment** topology (command dispatch, events, telemetry, TCP comms).
+This is exactly the right structure for our flight software that we have to follow initally with fprime as submodule.
 
 Use this guide to clone, build, run, and extend the project on a new machine.
 
